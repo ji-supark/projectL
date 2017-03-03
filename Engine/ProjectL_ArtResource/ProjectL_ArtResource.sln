@@ -1,12 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectL_ArtResource", "ProjectL_ArtResource.csproj", "{71A0EB72-B75C-320A-D6A4-D4FAF8681AD0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71A0EB72-B75C-320A-D6A4-D4FAF8681AD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71A0EB72-B75C-320A-D6A4-D4FAF8681AD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71A0EB72-B75C-320A-D6A4-D4FAF8681AD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71A0EB72-B75C-320A-D6A4-D4FAF8681AD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
