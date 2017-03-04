@@ -81,7 +81,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\z_artresource\script\AnimateUV.cs" />
+    <Compile Include="Assets\z_artresource\script\ScrollingUVs.cs" />
     <Compile Include="Assets\z_artresource\script\mesh_rotate.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
