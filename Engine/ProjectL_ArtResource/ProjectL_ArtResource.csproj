@@ -84,6 +84,9 @@
     <Compile Include="Assets\z_artresource\script\ScrollingUVs.cs" />
     <Compile Include="Assets\z_artresource\script\mesh_rotate.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\z_artresource\shader\Rimlight.shader" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
 </Project>
