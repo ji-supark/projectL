@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 6e268e0387d683b4f87433a4936901c8
-timeCreated: 1490017195
+guid: bab2cecc78cab5c4a823dead5b432629
+timeCreated: 1490091539
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -9,8 +9,7 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: slingshot_3
-    4300002: Object002
+    4300000: goldkey_2
   materials:
     importMaterials: 0
     materialName: 0
