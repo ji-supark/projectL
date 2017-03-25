@@ -1,5 +1,5 @@
 # 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
-# File Created: 24.03.2017 21:50:43
+# File Created: 25.03.2017 15:02:34
 
 mtllib chara_mermaid.mtl
 
@@ -806,7 +806,7 @@ vt 0.1806 0.6588 1.5452
 # 282 texture coords
 
 g weapon_mermaid
-usemtl 04___Default
+usemtl 03___Default123123
 s 1
 f 1/1/1 2/2/2 3/3/3 4/4/4 
 f 5/5/5 6/6/6 2/2/2 1/1/1 
@@ -6140,7 +6140,7 @@ vt 0.9477 0.4742 0.0000
 # 1062 texture coords
 
 g chara_mermaid
-usemtl 03___Default123123
+usemtl 04___Default
 s 1
 f 256/283/256 257/284/257 258/285/258 259/286/259 
 f 260/287/260 261/288/261 262/289/262 263/290/263 
