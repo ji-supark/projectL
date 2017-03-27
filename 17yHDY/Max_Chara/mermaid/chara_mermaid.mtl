@@ -1,5 +1,5 @@
 # 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
-# File Created: 27.03.2017 02:17:25
+# File Created: 27.03.2017 11:42:04
 
 newmtl 03___Default123123
 	Ns 10.0000
@@ -12,6 +12,8 @@ newmtl 03___Default123123
 	Kd 0.5882 0.5882 0.5882
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\_graphic1\Desktop\projectL\17yHDY\Max_Chara\mermaid\tex_mermaid_weapon.psd
+	map_Kd C:\Users\_graphic1\Desktop\projectL\17yHDY\Max_Chara\mermaid\tex_mermaid_weapon.psd
 
 newmtl 04___Default
 	Ns 10.0000
@@ -24,3 +26,5 @@ newmtl 04___Default
 	Kd 0.5882 0.5882 0.5882
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\_graphic1\Desktop\projectL\17yHDY\Max_Chara\mermaid\tex_mermaid.psd
+	map_Kd C:\Users\_graphic1\Desktop\projectL\17yHDY\Max_Chara\mermaid\tex_mermaid.psd
