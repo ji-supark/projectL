@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: a56e79fbcfdb6bc4ca746c3c63247c1c
-timeCreated: 1493751268
+guid: 57200deabfb57294ab127be64c39c234
+timeCreated: 1493799277
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -72,14 +72,14 @@ ModelImporter:
     100128: Bone_wep_06
     100130: Bone_wep_07
     100132: Bone_wep_08
-    100134: L_cloth_01
-    100136: L_cloth_02
-    100138: L_cloth_11
-    100140: L_cloth_12
-    100142: L_cloth_21
-    100144: L_cloth_22
-    100146: Object003
-    100148: Object005
+    100134: Chara_Shark
+    100136: Chara_Shark_Belt
+    100138: L_cloth_01
+    100140: L_cloth_02
+    100142: L_cloth_11
+    100144: L_cloth_12
+    100146: L_cloth_21
+    100148: L_cloth_22
     100150: R_cloth_01
     100152: R_cloth_02
     100154: R_cloth_11
@@ -87,10 +87,8 @@ ModelImporter:
     100158: R_cloth_21
     100160: R_cloth_22
     100162: //RootNode
-    100164: shark_belt
-    100166: shark_chara
-    100168: Weapon_Shark_L
-    100170: Weapon_Shark_R
+    100164: Weapon_Shark
+    100166: Weapon_Shark_L
     400000: Bip001
     400002: Bip001 Footsteps
     400004: Bip001 Head
@@ -158,14 +156,14 @@ ModelImporter:
     400128: Bone_wep_06
     400130: Bone_wep_07
     400132: Bone_wep_08
-    400134: L_cloth_01
-    400136: L_cloth_02
-    400138: L_cloth_11
-    400140: L_cloth_12
-    400142: L_cloth_21
-    400144: L_cloth_22
-    400146: Object003
-    400148: Object005
+    400134: Chara_Shark
+    400136: Chara_Shark_Belt
+    400138: L_cloth_01
+    400140: L_cloth_02
+    400142: L_cloth_11
+    400144: L_cloth_12
+    400146: L_cloth_21
+    400148: L_cloth_22
     400150: R_cloth_01
     400152: R_cloth_02
     400154: R_cloth_11
@@ -173,23 +171,19 @@ ModelImporter:
     400158: R_cloth_21
     400160: R_cloth_22
     400162: //RootNode
-    400164: shark_belt
-    400166: shark_chara
-    400168: Weapon_Shark_L
-    400170: Weapon_Shark_R
+    400164: Weapon_Shark
+    400166: Weapon_Shark_L
     2300000: Weapon_Shark_L
     3300000: Weapon_Shark_L
-    4300000: shark_chara
+    4300000: Chara_Shark
     4300002: Weapon_Shark_L
-    4300004: shark_belt
-    4300006: Object003
-    4300008: Weapon_Shark_R
+    4300004: Chara_Shark_Belt
+    4300006: Weapon_Shark
     7400000: Take 001
     9500000: //RootNode
-    13700000: Object003
-    13700002: shark_belt
-    13700004: shark_chara
-    13700006: Weapon_Shark_R
+    13700000: Chara_Shark
+    13700002: Chara_Shark_Belt
+    13700004: Weapon_Shark
   materials:
     importMaterials: 1
     materialName: 0
