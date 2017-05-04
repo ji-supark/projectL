@@ -219,7 +219,7 @@ ModelImporter:
     13700010: Object003
     13700012: Chara_Shark_belt
   materials:
-    importMaterials: 1
+    importMaterials: 0
     materialName: 0
     materialSearch: 1
   animations:

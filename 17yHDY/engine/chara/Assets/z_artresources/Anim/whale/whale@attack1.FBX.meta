@@ -144,7 +144,7 @@ ModelImporter:
     13700000: Chara_Whale
     13700002: Weapon_Whale
   materials:
-    importMaterials: 1
+    importMaterials: 0
     materialName: 0
     materialSearch: 1
   animations:

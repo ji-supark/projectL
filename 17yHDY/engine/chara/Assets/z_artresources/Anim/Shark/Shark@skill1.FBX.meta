@@ -185,7 +185,7 @@ ModelImporter:
     13700002: Chara_Shark_belt
     13700004: Weapon_Shark
   materials:
-    importMaterials: 1
+    importMaterials: 0
     materialName: 0
     materialSearch: 1
   animations:
