@@ -86,6 +86,7 @@ ModelImporter:
     100156: Bone_wep_06
     100158: Bone_wep_07
     100160: Weapon_Whale
+    100162: Whale_hat
     400000: Bip001
     400002: Bip001 Footsteps
     400004: Bip001 Head
@@ -167,9 +168,13 @@ ModelImporter:
     400156: Bone_wep_06
     400158: Bone_wep_07
     400160: Weapon_Whale
+    400162: Whale_hat
+    2300000: Whale_hat
+    3300000: Whale_hat
     4300000: Chara_Whale
     4300002: Weapon_Whale002
     4300004: Weapon_Whale
+    4300006: Whale_hat
     7400000: Take 001
     9500000: //RootNode
     13700000: Chara_Whale

@@ -78,6 +78,7 @@ ModelImporter:
     100140: R_hband_006
     100142: //RootNode
     100144: weapon_turtle
+    100146: Sphere002
     400000: Bip001
     400002: Bip001 Footsteps
     400004: Bip001 Head
@@ -151,6 +152,7 @@ ModelImporter:
     400140: R_hband_006
     400142: //RootNode
     400144: weapon_turtle
+    400146: Sphere002
     2300000: weapon_turtle
     3300000: weapon_turtle
     4300000: chara_turtle
